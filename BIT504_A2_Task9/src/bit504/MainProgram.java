@@ -24,7 +24,12 @@ public class MainProgram {
 class differentClass {
 	
 	
-	
+	private static void iOpenedANewClass () {
+		
+		System.out.println("Hello from the differentClass");
+		
+		
+	}
 	
 	
 	
