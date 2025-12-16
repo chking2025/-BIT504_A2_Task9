@@ -8,6 +8,15 @@ public class MainProgram {
 		System.out.println("You have reached the end of your assignment, congrats!");
 
 	
-	}
+	} // end of main method
+	
+	
+	private static void newMethod () {
+		
+		System.out.println("This is a new method.");
+		
+	} // end of newMethod method
+	
+	
 
-}
+} // end of MainProgram class
