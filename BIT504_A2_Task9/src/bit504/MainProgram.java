@@ -20,3 +20,16 @@ public class MainProgram {
 	
 
 } // end of MainProgram class
+
+class differentClass {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+} // end of differentClass
